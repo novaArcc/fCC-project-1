@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/fCC-project-1/static/css/main.7108da7a.css",
+    "main.js": "/fCC-project-1/static/js/main.6cc39ba0.js",
+    "static/js/453.f9c040e8.chunk.js": "/fCC-project-1/static/js/453.f9c040e8.chunk.js",
+    "static/media/image-2.jpg": "/fCC-project-1/static/media/image-2.6ea305f13d236ce24f52.jpg",
+    "static/media/image-13.jpg": "/fCC-project-1/static/media/image-13.272d0db1d08a89061ee7.jpg",
+    "static/media/image-12.jpg": "/fCC-project-1/static/media/image-12.af54f67e68873adbfc76.jpg",
+    "static/media/image-3.jpg": "/fCC-project-1/static/media/image-3.7713329239f453c5bc8e.jpg",
+    "static/media/image-11.jpg": "/fCC-project-1/static/media/image-11.f761747e5bccaba96495.jpg",
+    "static/media/image-14.jpg": "/fCC-project-1/static/media/image-14.f0b4844c8d866e6bfd3c.jpg",
+    "static/media/image-5.jpg": "/fCC-project-1/static/media/image-5.77dca2c68a71e90f9e09.jpg",
+    "static/media/image-16.jpg": "/fCC-project-1/static/media/image-16.579f3f6328135b9745c6.jpg",
+    "static/media/image-7.jpg": "/fCC-project-1/static/media/image-7.1c800fd34f2f7e1c7195.jpg",
+    "static/media/image-15.jpg": "/fCC-project-1/static/media/image-15.b90e169ec6636f5a3cc0.jpg",
+    "static/media/image-10.jpg": "/fCC-project-1/static/media/image-10.572ebe24caac2d079330.jpg",
+    "static/media/image-4.jpg": "/fCC-project-1/static/media/image-4.d11e72a1e46f398456e2.jpg",
+    "static/media/image-1.jpg": "/fCC-project-1/static/media/image-1.a1257a227673500bfdaf.jpg",
+    "static/media/image-8.jpg": "/fCC-project-1/static/media/image-8.758b94508c1e2a1a23cc.jpg",
+    "static/media/image-6.jpg": "/fCC-project-1/static/media/image-6.22d12501fac7aa0de598.jpg",
+    "static/media/image-9.jpg": "/fCC-project-1/static/media/image-9.ed19ae7d059729f0366d.jpg",
+    "index.html": "/fCC-project-1/index.html",
+    "main.7108da7a.css.map": "/fCC-project-1/static/css/main.7108da7a.css.map",
+    "main.6cc39ba0.js.map": "/fCC-project-1/static/js/main.6cc39ba0.js.map",
+    "453.f9c040e8.chunk.js.map": "/fCC-project-1/static/js/453.f9c040e8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7108da7a.css",
+    "static/js/main.6cc39ba0.js"
+  ]
+}
